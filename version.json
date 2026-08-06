@@ -1,7 +1,4 @@
 {
     "minimumVersion": "2.0",
-    "appStoreURL": "https://apps.apple.com",
-    "message": {
-        "en": "Test message."
-    }
+    "appStoreURL": "https://apps.apple.com"
 }
